@@ -9,3 +9,5 @@ Conocer la modulación de todos los muros que serán construidos en un determina
 
 **Retos:**
 Extraer el conocimiento técnico de un trabajador de la construcción, para traducirlo en lineas de código es el mayor reto de este proyecto. El programa tiene el criterio de decisión que tendría uno de estos trabajadores cuando se enfrenta a diferentes situaciones. Conseguir esto tomó tiempo e iteraciones constantes del programa. 
+
+Adicionalmente, el programa exporta los resultados a un archivo de AutoCAD. 
